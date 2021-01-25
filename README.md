@@ -4,8 +4,8 @@
 ---
 
 <p aling= "right" "Joshua Applegarth"> <br />
-MSSA CAD <br />
-January 25, 2021 </div>
+<p aling= "right" "MSSA CAD" <br />
+<p aling= "right" "January 25, 2021" </div>
 
 ---
 
