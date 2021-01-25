@@ -3,7 +3,7 @@
 
 ---
 
-<div style="text-align: right">Joshua Applegarth <br /> </div>
+<p aling= "right">Joshua Applegarth <br />
 MSSA CAD <br />
 January 25, 2021 </div>
 
