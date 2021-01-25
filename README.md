@@ -18,9 +18,9 @@ With the influx of new and old hunters moving into the area, it can sometimes be
 
 #### Description
 The web application primarily be based off a border-only map with each hunting area with a color-coded system depicting the accommodation of the highest weapon caliber accepted.
--	Black – Rifle (and below)
--	Red – Shotgun (and below)
--	Yellow – Archery only
+-	**Black – Rifle (and below)**
+-	**Red – Shotgun (and below)**
+-	**Yellow – Archery only**
 
 Upon registering and gaining access, this web application will allow Users to log in and check into the different hunting/Training Areas on Fort Hood.  It will offer checking in for different reasons based on state hunting seasons as follows:
 -	**Deer**
