@@ -3,11 +3,9 @@
 
 ---
 
-Joshua Applegarth
-
-MSSA CAD
-
-January 25, 2021
+Joshua Applegarth <br />
+MSSA CAD <br />
+January 25, 2021 <br />
 
 ---
 
