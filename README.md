@@ -46,4 +46,4 @@ Administrative profiles of this application will have rights to create, edit, re
 Users will have to register with a name, valid phone number, and valid email.  Once registered they will be allowed to create a password in turn creating them a profile for HAC-IN.   With this, the Users will be allowed to select a date, access type, and area in which they would like to access.  Based upon the available slots for that specified area, they will be able to check-in/check-out of areas with email confirmation of that specific transaction.
 
 
-Reference: https://webtrac.mwr.army.mil/webtrac
+[Go to Huntrac](https://webtrac.mwr.army.mil/webtrac)
