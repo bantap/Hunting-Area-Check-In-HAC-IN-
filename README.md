@@ -45,9 +45,3 @@ Users will have to register with a name, valid phone number, and valid email.  O
 
 
 Reference: https://webtrac.mwr.army.mil/webtrac
-
-
-
-
-
-
