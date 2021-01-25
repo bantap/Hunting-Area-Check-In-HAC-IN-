@@ -5,7 +5,7 @@
 
 Joshua Applegarth
 
-Project Step 3
+MSSA CAD
 
 January 25, 2021
 
@@ -23,11 +23,11 @@ The web application primarily be based off a border-only map with each hunting a
 -	Yellow – Archery only
 
 Upon registering and gaining access, this web application will allow Users to log in and check into the different hunting/Training Areas on Fort Hood.  It will offer checking in for different reasons based on state hunting seasons as follows:
--	Deer
--	Wild Pig
--	Small Game
--	Fishing
--	Maintenance/ Area Access
+-	**Deer**
+-	**Wild Pig**
+-	**Small Game**
+-	**Fishing**
+-	**Maintenance/ Area Access**
 
 It will also tell how many slots are available by type.  Being define with a larger hunting area will be more accommodating to higher caliber weapons, that area would also be allowed more hunters within that area.  In comparison, the smaller areas, may be limited in the caliber that may be used as hunters will be closer to one another and less slots for hunters, so accidents are prevented. 
 
