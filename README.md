@@ -3,9 +3,9 @@
 
 ---
 
-<p aling= "right" "Joshua Applegarth"> <br />
-<p aling= "right" "MSSA CAD" <br />
-<p aling= "right" "January 25, 2021" </div>
+<p align "right"> Joshua Applegarth </p> <br />
+MSSA CAD <br />
+January 25, 2021
 
 ---
 
