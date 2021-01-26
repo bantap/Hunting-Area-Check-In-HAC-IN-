@@ -1,5 +1,5 @@
 # Hunting Area Check In HAC-IN
-### An 18-Week Project. An ASP.NET MVC Web Application for MSSA.
+### An 18-Week Project. An ASP.NET MVC Core Web Application for MSSA.
 
 ---
 
