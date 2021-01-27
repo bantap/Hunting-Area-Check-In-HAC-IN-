@@ -15,12 +15,14 @@ January 25, 2021
 With the influx of new and old hunters moving into the area, it can sometimes be overwhelming trying to manage where everyone is at one time.  Sometimes adverse weather rolls in, or the area quota has been filled, and you must alert and ensure the safety of hunters in a specific hunting area of the current situation.  This web application is designed to allow administrators to keep a detail record of hunters within a selected area, and to be able to alert them if needed.  It will also allow registered Users (after being verified with a valid hunting license in person) to view, check-in, and access available hunting areas within the designated hunting zone with ease.
 
 #### Description
-The web application primarily be based off a border-only map with each hunting area with a color-coded system depicting the accommodation of the highest weapon caliber accepted.
+The web application primarily be based off a border-only map with each hunting area with a color-coded system depicting the accommodation of the highest weapon caliber accepted. All rifle hunts will be guided to accomodate safety specifications within the hunting area along side with Range Control and adhere to the Saftey Diagram Zones (SDZ) perameters.
+
 +	**Black – Rifle (and below)**
 +	**Red – Shotgun (and below)**
 + **Yellow – Archery only**
 
 Upon registering and gaining access, this web application will allow Users to log in and check into the different hunting/Training Areas on Fort Hood.  It will offer checking in for different reasons based on state hunting seasons as follows:
+
 + **Deer**
 + **Wild Pig**
 +	**Small Game**
